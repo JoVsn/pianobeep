@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Projet"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Projet">
+				<Option output="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Projet.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Makefile&quot;  VERBOSE=1 Projet"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Projet/fast">
+				<Option output="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Projet.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Makefile&quot;  VERBOSE=1 Projet/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/headers/Application.hpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/headers/Bass.hpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/headers/DataExporter.hpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/headers/DataImporter.hpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/headers/GlobalMenu.hpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/headers/Guitar.hpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/headers/Instrument.hpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/headers/KeyboardPlayer.hpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/headers/Note.hpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/headers/Partition.hpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/headers/Piano.hpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/headers/functions.hpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/main.cpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/src/Application.cpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/src/Bass.cpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/src/DataExporter.cpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/src/DataImporter.cpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/src/GlobalMenu.cpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/src/Guitar.cpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/src/Instrument.cpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/src/KeyboardPlayer.cpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/src/Note.cpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/src/Partition.cpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/src/Piano.cpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/src/functions.cpp">
+			<Option target="Projet"/>
+		</Unit>
+		<Unit filename="C:/Users/Jordan/Documents/Jordan/Perso/Cours/IMAC2/Cplus/Projet/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,22 @@
+120
+C4 - noire - np
+D4 - noire - np
+E4 - noire - np
+C4 - noire - np
+D4 - blanche - np
+D4 - noire - np
+E4 - noire - np
+F4 - blanche - np
+F4 - blanche - np
+E4 - blanche - np
+E4 - blanche - np
+C4 - noire - np
+D4 - noire - np
+E4 - noire - np
+C4 - noire - np
+D4 - blanche - np
+D4 - noire - np
+E4 - noire - np
+F4 - blanche - np
+G4 - blanche - np
+C4 - noire - np
